@@ -15,7 +15,7 @@ Profile InfoUnfollow all your following
 
 Usage:
 
-git-clone https://github.com/i3mrR/instgrambot/blob/main/instafollow.py
+git-clone https://github.com/i3mrR/instafollowbot
 
 cd inshackle-bot
 
